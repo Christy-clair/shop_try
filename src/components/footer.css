@@ -1,0 +1,9 @@
+,*::before, *::after {
+    box-sizing: border-box;
+}
+
+.footer{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+
+.ab-content h4 {
+    font-size: 1.2em;
+    color: #4c4d4e;
+    margin: 2em 0 1em 0;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  .ab-info-con {
+    padding: 2rem;
+  }
+  
+  .ab-info-con.ab-inf-page h4 {
+    font-size: 1.4em;
+    color: #4c4d4e;
+    margin: 0em 0 1.2em 0;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  .ab-info-con.ab-inf-page {
+    margin-top: 7em;
+  }
+
+  .container .row {
+      display: flex;
+  }
